@@ -1,1 +1,2 @@
-# java-spring-boot-web-app-meal-builder
+# Meal Builder
+Development of the "Meal Builder" application with the Spring boot framework
